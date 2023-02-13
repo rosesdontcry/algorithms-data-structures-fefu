@@ -1,0 +1,7 @@
+D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\Dect\bin\Debug\Dect.exe
+D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\Dect\bin\Debug\Dect.pdb
+D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\Dect\obj\Debug\Dect.csproj.AssemblyReference.cache
+D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\Dect\obj\Debug\Dect.csproj.SuggestedBindingRedirects.cache
+D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\Dect\obj\Debug\Dect.csproj.CoreCompileInputs.cache
+D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\Dect\obj\Debug\Dect.exe
+D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\Dect\obj\Debug\Dect.pdb
