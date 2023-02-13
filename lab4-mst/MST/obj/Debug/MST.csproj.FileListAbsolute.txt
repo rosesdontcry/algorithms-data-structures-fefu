@@ -1,0 +1,14 @@
+D:\rider\JetBrains Rider 2022.2.3\Projects\HW\MST\bin\Debug\MST.exe
+D:\rider\JetBrains Rider 2022.2.3\Projects\HW\MST\bin\Debug\MST.pdb
+D:\rider\JetBrains Rider 2022.2.3\Projects\HW\MST\obj\Debug\MST.csproj.AssemblyReference.cache
+D:\rider\JetBrains Rider 2022.2.3\Projects\HW\MST\obj\Debug\MST.csproj.SuggestedBindingRedirects.cache
+D:\rider\JetBrains Rider 2022.2.3\Projects\HW\MST\obj\Debug\MST.csproj.CoreCompileInputs.cache
+D:\rider\JetBrains Rider 2022.2.3\Projects\HW\MST\obj\Debug\MST.exe
+D:\rider\JetBrains Rider 2022.2.3\Projects\HW\MST\obj\Debug\MST.pdb
+D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\MST\bin\Debug\MST.exe
+D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\MST\bin\Debug\MST.pdb
+D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\MST\obj\Debug\MST.csproj.AssemblyReference.cache
+D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\MST\obj\Debug\MST.csproj.SuggestedBindingRedirects.cache
+D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\MST\obj\Debug\MST.csproj.CoreCompileInputs.cache
+D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\MST\obj\Debug\MST.exe
+D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\MST\obj\Debug\MST.pdb
