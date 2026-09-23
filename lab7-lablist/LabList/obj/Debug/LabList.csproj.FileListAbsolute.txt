@@ -1,7 +1,0 @@
-D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\LabList\bin\Debug\LabList.exe
-D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\LabList\bin\Debug\LabList.pdb
-D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\LabList\obj\Debug\LabList.csproj.AssemblyReference.cache
-D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\LabList\obj\Debug\LabList.csproj.SuggestedBindingRedirects.cache
-D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\LabList\obj\Debug\LabList.csproj.CoreCompileInputs.cache
-D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\LabList\obj\Debug\LabList.exe
-D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\LabList\obj\Debug\LabList.pdb

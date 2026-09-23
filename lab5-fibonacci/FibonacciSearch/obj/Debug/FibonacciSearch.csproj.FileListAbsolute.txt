@@ -1,7 +1,0 @@
-D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\FibonacciSearch\bin\Debug\FibonacciSearch.exe
-D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\FibonacciSearch\bin\Debug\FibonacciSearch.pdb
-D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\FibonacciSearch\obj\Debug\FibonacciSearch.csproj.AssemblyReference.cache
-D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\FibonacciSearch\obj\Debug\FibonacciSearch.csproj.SuggestedBindingRedirects.cache
-D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\FibonacciSearch\obj\Debug\FibonacciSearch.csproj.CoreCompileInputs.cache
-D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\FibonacciSearch\obj\Debug\FibonacciSearch.exe
-D:\JetBrains\JetBrains Rider 2022.2.3\projects\AlgorithmsStructures\FibonacciSearch\obj\Debug\FibonacciSearch.pdb
